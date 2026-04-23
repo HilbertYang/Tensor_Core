@@ -1,0 +1,7 @@
+sim/verilator/
+sim/tensor_core_sim
+sim/tensor_core.vcd
+sim/iverilog_sim
+cpp/tensor_core
+*.o
+*.d
